@@ -1,5 +1,9 @@
 # Hi I'm Gianluca Nordio 👋
 
+<img
+  src="https://github.com/gianlucanordio/gianlucanordio/blob/main/images/stat.svg"
+  alt="Gianluca WakaTime Activity"
+/>
 <!--
 **GianlucaNordio/gianlucanordio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
