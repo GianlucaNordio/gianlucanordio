@@ -13,8 +13,7 @@ Welcome to my GitHub profile! I'm currently pursuing a double degree in Computer
 - **💬 Ask me about:** Robotics, embedded systems, and my experiences studying in Italy and Denmark.
 - **📫 How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/gianluca-nordio/).
 
-## Projects
-
+<h2 align="center">🚀 Projects</h2>
 Here are some of the projects I've been working on:
 
 - **[EasyParking](https://github.com/GianlucaNordio/EasyParking):** A computer vision project aimed at optimizing parking lot management.
@@ -24,17 +23,16 @@ Here are some of the projects I've been working on:
 
 Feel free to explore these repositories to see my coding style and the technologies I've been working with.
 
-## GitHub Stats
-
-![Gianluca's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianlucaNordio&show_icons=true&theme=radical)
-
-## Languages and Tools
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianlucaNordio&layout=compact&theme=radical)
-
-Thank you for visiting my profile. Let's connect and collaborate on exciting projects!
-
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GianlucaNordio&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
+
+<h2 align="center">🛠️ Languages and Tools</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianlucaNordio&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+<p align="center">Thank you for visiting my profile. Let's connect and collaborate on exciting projects! 🚀</p>
