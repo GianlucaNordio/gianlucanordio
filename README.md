@@ -6,11 +6,11 @@
 </div>
 </h1>
 
-Welcome to my GitHub profile! I'm currently pursuing a double degree in Computer Engineering at the University of Padua and Autonomous Systems at the Technical University of Denmark. My academic journey reflects my passion for technology, robotics, and intelligent systems.
+Welcome to my GitHub profile! I'm currently pursuing a double degree in Computer Engineering at the University of Padua and Autonomous Systems at the Technical University of Denmark. My academic journey reflects my passion for technology, software engineering, robotics, and artificial intelligence.
 
 - **🔭 I’m currently working on:** Enhancing my skills in autonomous systems and exploring innovative solutions in robotics.
 - **🌱 I’m currently learning:** Advanced algorithms in machine learning and their applications in autonomous technologies.
-- **💬 Ask me about:** Robotics, embedded systems, and my experiences studying in Italy and Denmark.
+- **💬 Ask me about:** Software engineering, robotics, embedded systems, and my experiences studying in Italy and Denmark.
 - **📫 How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/gianluca-nordio/).
 
 <h2 align="center">🚀 Projects</h2>
